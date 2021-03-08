@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\C#\2nd\Casting\bin\Debug\Casting.exe.config
+C:\Users\Acer\Desktop\C#\2nd\Casting\bin\Debug\Casting.exe
+C:\Users\Acer\Desktop\C#\2nd\Casting\bin\Debug\Casting.pdb
+C:\Users\Acer\Desktop\C#\2nd\Casting\obj\Debug\Casting.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\C#\2nd\Casting\obj\Debug\Casting.Form1.resources
+C:\Users\Acer\Desktop\C#\2nd\Casting\obj\Debug\Casting.Properties.Resources.resources
+C:\Users\Acer\Desktop\C#\2nd\Casting\obj\Debug\Casting.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\C#\2nd\Casting\obj\Debug\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C#\2nd\Casting\obj\Debug\Casting.exe
+C:\Users\Acer\Desktop\C#\2nd\Casting\obj\Debug\Casting.pdb
